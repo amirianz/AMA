@@ -28,3 +28,6 @@ git commit -m "creat header"
 
 
 git push
+
+
+git clone https://github.com/amirianz/AMA.git
