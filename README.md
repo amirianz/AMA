@@ -17,3 +17,10 @@ git add index.html
 git restore --staged index.html
 git add .
 git restore --staged .
+
+git clean -f
+git restore .
+git status
+
+git log
+git commit -m "creat header"
