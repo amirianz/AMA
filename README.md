@@ -22,5 +22,9 @@ git clean -f
 git restore .
 git status
 
+
 git log
 git commit -m "creat header"
+
+
+git push
