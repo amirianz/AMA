@@ -40,3 +40,6 @@ git branch
 git branch create-search-box main
 git switch create-search-box
 git push --set-upstream origin create-search-box
+
+
+git pull origin main
